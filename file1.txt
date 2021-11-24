@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 file1 re created
 ver 1.0
+=======
+file1 changed in 1stbranch
+stash content
+>>>>>>> Stashed changes
